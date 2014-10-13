@@ -1,6 +1,0 @@
-blockquote.alert {
-  overflow:auto;
-  p:first-child {
-    margin-top: .5em;
-  };
-}

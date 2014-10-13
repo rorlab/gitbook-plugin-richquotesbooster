@@ -5,7 +5,7 @@ module.exports = {
             "test.js"
         ],
         css: [
-            "test.css"
+            "richquotes_booster.css"
         ],
         html: {
             "html:start": function() {
