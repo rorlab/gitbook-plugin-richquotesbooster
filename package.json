@@ -1,5 +1,5 @@
 {
-    "name": "gitbook-plugin",
+    "name": "gitbook-plugin-richquotesbooster",
     "description": "Booster plugin of Richquotes for the new version of GitBook",
     "main": "index.js",
     "version": "0.0.1",
