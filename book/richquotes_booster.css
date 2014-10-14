@@ -1,6 +1,4 @@
 blockquote.alert {
   overflow:auto !important;
-  p:first-child {
-    margin-top: .5em !important;
-  };
+  padding-top: .5em !important;
 }
