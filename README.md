@@ -5,6 +5,8 @@ The following css will be added:
 ```css
 blockquote.alert {
   overflow:auto !important;
-  padding-top: .5em !important;
 }
+blockquote.alert p:first-child {
+    margin-top: .5em !important;
+};
 ```
