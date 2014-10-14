@@ -1,6 +1,4 @@
 blockquote.alert {
   overflow:auto !important;
 }
-blockquote.alert p:first-child {
-    margin-top: .5em !important;
-};
+blockquote.alert > p { margin-top: 1em;}
