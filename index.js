@@ -2,7 +2,7 @@ module.exports = {
     book: {
         assets: "./book",
         js: [
-            "test.js"
+            "plugin.js"
         ],
         css: [
             "richquote_booster.css"
